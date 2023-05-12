@@ -1,0 +1,11 @@
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp2.2\ConsoleApp9.deps.json
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp2.2\ConsoleApp9.runtimeconfig.json
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp2.2\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp2.2\ConsoleApp9.dll
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp2.2\ConsoleApp9.pdb
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.AssemblyInfo.cs
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.dll
+C:\Users\kuzn_sa31\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp2.2\ConsoleApp9.pdb
